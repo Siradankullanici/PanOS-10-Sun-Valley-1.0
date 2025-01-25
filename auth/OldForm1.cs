@@ -95,12 +95,14 @@ namespace auth
             {
                 MessageBox.Show("C++ Redist not found on your system. Download the Microsoft C++ Redists from Microsoft's website", "Redist Check", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Environment.Exit(0);
-            } else
-            if(isVM() == false)
-            {
-                MessageBox.Show("You're not using a Virtual Machine, so you may not proceed.", "Virtual Machine Check", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                Environment.Exit(0);
-            } else if (API.AIO(textBox1.Text))
+            } 
+            //else
+            //if(isVM() == false)
+            //{
+            //    MessageBox.Show("You're not using a Virtual Machine, so you may not proceed.", "Virtual Machine Check", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //    Environment.Exit(0);
+            //} 
+            else if (API.AIO(textBox1.Text))
             {
                 var s = MessageBox.Show("LAST WARNING: Do you want to execute this malware? This sample is malicious and is NOT A JOKE! The creator is NOT responsible for any damage done. You're responsible for your own actions. If in doubt, click \"No\" and nothing will happen.", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
 
