@@ -1,0 +1,4 @@
+gnu-efi-4.0.0/inc
+gnu-efi-4.0.0/inc/x86_64
+gnu-efi-4.0.0/inc/protocol
+gnu-efi-4.0.0/lib

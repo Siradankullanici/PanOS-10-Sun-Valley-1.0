@@ -13,3 +13,10 @@ phase3/obj
 phase3/bin
 UpdateScreen/obj
 UpdateScreen/bin
+/UEFI/Backend/mingw64
+/UEFI/Backend/gnu-efi-4.0.0
+UEFI/Backend/bootmgfw.o
+UEFI/Backend/bootmgfw.out
+UEFI/Backend/output.map
+UEFI/Backend/objects.list
+UEFI/Backend/bootmgfw.d
