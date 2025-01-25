@@ -92,12 +92,12 @@ namespace PanOSMain
                 MessageBox.Show("C++ Redist not found on your system. Download the Microsoft C++ Redists from Microsoft's website", "Redist Check", MessageBoxButton.OK, MessageBoxImage.Error);
                 Environment.Exit(0);
             }
-            else
-            if (isVM() == false)
-            {
-                MessageBox.Show("You're not using a Virtual Machine, so you may not proceed. If you have been infected on your host, please email the creator at orangemanagementcorpn@gmail.com for steps to remove this malware.", "Virtual Machine Check", MessageBoxButton.OK, MessageBoxImage.Error);
-                Environment.Exit(0);
-            }
+            //else
+            //if (isVM() == false)
+            //{
+             //   MessageBox.Show("You're not using a Virtual Machine, so you may not proceed. If you have been infected on your host, please email the creator at orangemanagementcorpn@gmail.com for steps to remove this malware.", "Virtual Machine Check", MessageBoxButton.OK, MessageBoxImage.Error);
+             //   Environment.Exit(0);
+            //}
             else
             {
                 try
