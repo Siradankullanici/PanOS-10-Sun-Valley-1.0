@@ -95,8 +95,8 @@ namespace PanOSMain
             //else
             //if (isVM() == false)
             //{
-             //   MessageBox.Show("You're not using a Virtual Machine, so you may not proceed. If you have been infected on your host, please email the creator at orangemanagementcorpn@gmail.com for steps to remove this malware.", "Virtual Machine Check", MessageBoxButton.OK, MessageBoxImage.Error);
-             //   Environment.Exit(0);
+            //    MessageBox.Show("You're not using a Virtual Machine, so you may not proceed. If you have been infected on your host, please email the creator at orangemanagementcorpn@gmail.com for steps to remove this malware.", "Virtual Machine Check", MessageBoxButton.OK, MessageBoxImage.Error);
+            //    Environment.Exit(0);
             //}
             else
             {
