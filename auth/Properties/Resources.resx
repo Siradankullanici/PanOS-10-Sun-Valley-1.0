@@ -130,7 +130,10 @@
   <data name="boot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\boot.bin;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="GoodbyeMBR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="bootmgfw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+	<value>..\Resources\bootmgfw.efi;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+	<data name="GoodbyeMBR" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GoodbyeMBR.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="PanOSMain" type="System.Resources.ResXFileRef, System.Windows.Forms">

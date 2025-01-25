@@ -103,6 +103,16 @@ namespace auth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] bootmgfw {
+            get {
+                object obj = ResourceManager.GetObject("bootmgfw", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] GoodbyeMBR {
             get {
                 object obj = ResourceManager.GetObject("GoodbyeMBR", resourceCulture);
