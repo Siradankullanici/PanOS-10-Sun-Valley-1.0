@@ -12,5 +12,5 @@ signtool.exe sign /f "UTKUDORUKBAYRAKTAR.pfx" /p "UTKUDORUKBAYRAKTAR" /fd SHA256
 :: Sign the auth.exe file with the PFX password
 signtool.exe sign /f "UTKUDORUKBAYRAKTAR.pfx" /p "UTKUDORUKBAYRAKTAR" /fd SHA256 /t http://timestamp.digicert.com /a "auth.exe"
 
-echo Files signed successfully, and certificate added to Trusted Root store!
+echo Files signed successfully
 pause
