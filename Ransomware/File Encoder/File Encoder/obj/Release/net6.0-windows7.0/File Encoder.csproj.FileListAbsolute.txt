@@ -1,0 +1,17 @@
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\bin\Release\net6.0-windows7.0\File Encoder.exe
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\bin\Release\net6.0-windows7.0\File Encoder.deps.json
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\bin\Release\net6.0-windows7.0\File Encoder.runtimeconfig.json
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\bin\Release\net6.0-windows7.0\File Encoder.dll
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\bin\Release\net6.0-windows7.0\File Encoder.pdb
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File_Encoder.Form1.resources
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.csproj.GenerateResource.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.AssemblyInfoInputs.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.AssemblyInfo.cs
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.csproj.CoreCompileInputs.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.sourcelink.json
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.dll
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\refint\File Encoder.dll
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.pdb
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\File Encoder.genruntimeconfig.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\File Encoder\File Encoder\obj\Release\net6.0-windows7.0\ref\File Encoder.dll

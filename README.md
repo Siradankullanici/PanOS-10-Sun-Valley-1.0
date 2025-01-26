@@ -20,3 +20,7 @@ Note:
 - All WindowsForms components are not optimised for high DPI displays. I overlooked that when making this malware.
 - You may see a Confused folder in the output directory of the various components. I don't know how up-to-date those versions are, you can probably find some prototypes/private beta versions there, if you can deobfuscate them.)
 - The compiled executables in the output directories might not necessarily be up-to-date.
+## Edit By HydraDragonAntivirus
+- Ransomware made by winball501 Discord: winball_501. UEFI and other new things made by HydraDragonAntivirus Discord: hydra_dragon_antivirus, RSA key generated via: https://github.com/drwellss/MultronFguardian
+-  File Encoder needs .NET 6.0 but you can convert to .NET Fraamwork 4.7.2
+- Make sure file path doesn't have space in File Encoder application.

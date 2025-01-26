@@ -1,0 +1,10 @@
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\bin\Release\Winball501 Decryptor.exe.config
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\bin\Release\Winball501 Decryptor.exe
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\bin\Release\Winball501 Decryptor.pdb
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501 Decryptor.csproj.AssemblyReference.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501_Decryptor.Form1.resources
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501_Decryptor.Properties.Resources.resources
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501 Decryptor.csproj.GenerateResource.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501 Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501 Decryptor.exe
+C:\Users\victim\Documents\GitHub\PanOS-10-Sun-Valley-1.0\Ransomware\Winball501 Decryptor\Winball501 Decryptor\obj\Release\Winball501 Decryptor.pdb

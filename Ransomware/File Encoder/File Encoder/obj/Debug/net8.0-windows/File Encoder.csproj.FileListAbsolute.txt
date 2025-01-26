@@ -1,0 +1,16 @@
+C:\Users\winball501\source\repos\File Encoder\File Encoder\bin\Debug\net8.0-windows\File Encoder.exe
+C:\Users\winball501\source\repos\File Encoder\File Encoder\bin\Debug\net8.0-windows\File Encoder.deps.json
+C:\Users\winball501\source\repos\File Encoder\File Encoder\bin\Debug\net8.0-windows\File Encoder.runtimeconfig.json
+C:\Users\winball501\source\repos\File Encoder\File Encoder\bin\Debug\net8.0-windows\File Encoder.dll
+C:\Users\winball501\source\repos\File Encoder\File Encoder\bin\Debug\net8.0-windows\File Encoder.pdb
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File_Encoder.Form1.resources
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.csproj.GenerateResource.cache
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.AssemblyInfoInputs.cache
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.AssemblyInfo.cs
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.csproj.CoreCompileInputs.cache
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.dll
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\refint\File Encoder.dll
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.pdb
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\File Encoder.genruntimeconfig.cache
+C:\Users\winball501\source\repos\File Encoder\File Encoder\obj\Debug\net8.0-windows\ref\File Encoder.dll

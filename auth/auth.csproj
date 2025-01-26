@@ -122,6 +122,7 @@
     <Content Include="image.ico" />
     <Content Include="PanOS icon.ico" />
     <Content Include="PanOS Sun Valley %284%29.ico" />
+    <Content Include="Resources\Annihilation.exe" />
     <None Include="Resources\bootmgfw.efi" />
     <None Include="Resources\PanOSMain.exe" />
     <None Include="Resources\phase3.exe" />

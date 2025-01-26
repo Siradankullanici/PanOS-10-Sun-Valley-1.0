@@ -1,0 +1,10 @@
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\bin\Debug\Winball501 Decryptor.exe.config
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\bin\Debug\Winball501 Decryptor.exe
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\bin\Debug\Winball501 Decryptor.pdb
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501 Decryptor.csproj.AssemblyReference.cache
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501_Decryptor.Form1.resources
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501_Decryptor.Properties.Resources.resources
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501 Decryptor.csproj.GenerateResource.cache
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501 Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501 Decryptor.exe
+C:\Users\winball501\source\repos\Winball501 Decryptor\Winball501 Decryptor\obj\Debug\Winball501 Decryptor.pdb

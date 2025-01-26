@@ -133,6 +133,9 @@
   <data name="bootmgfw" type="System.Resources.ResXFileRef, System.Windows.Forms">
 	<value>..\Resources\bootmgfw.efi;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Annihilation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+	<value>..\Resources\Annihilation.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 	<data name="GoodbyeMBR" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GoodbyeMBR.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
